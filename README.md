@@ -1,4 +1,5 @@
 # Fest
+This repository is the frontend component of the full stack Fest application. The purpose of this repository is to deploy the frontend to AWS Cloud for demonstration purposes, hence, backend functionality is not available. 
 
 This template should help get you started developing with Vue 3 in Vite.
 
